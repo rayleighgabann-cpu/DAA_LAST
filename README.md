@@ -43,7 +43,6 @@ The two states are `take` (the person is tested) and `skip` (the person is not t
 
 ## AI use
 
-The syllabus requires you to say which AI tools you used and for what. Write the tool (ChatGPT, Copilot, other) and what you asked it: explain an idea, find an error, review code. Write "none" if you did not use any. If you took code or text from a book or a website, give the source here.
 
 I used Google Gemini to understand the underlying concepts of dynamic programming (Edit Distance, LCS, DP on a tree) and string algorithms (KMP, Rabin-Karp). I also used it to review my Java implementation, fix logical bugs, and help translate my understanding of the algorithms into clear English answers for this report.
 
