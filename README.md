@@ -20,7 +20,7 @@ The 9 lines your program prints on your data (`java -cp out Main`):
 
 My outbreak report (a screenshot of `output/outbreak.html`):
 
-
+![Screenshot from 2026-11-08 19-32-17.png](output/Screenshot%20from%202026-11-08%2019-32-17.png)
 
 ## Questions
 
